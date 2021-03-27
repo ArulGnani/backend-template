@@ -1,0 +1,16 @@
+{
+  "name": "backend-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "",
+    "dev" : "tsc -w",
+    "build" : "tsc" 
+  },
+  "author": "v47",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
